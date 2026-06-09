@@ -1,57 +1,45 @@
-&lt;h1 align="center"&gt;Hi 👋, I'm Ahmed Mohammed Ahmed Saber&lt;/h1&gt;
-&lt;h3 align="center"&gt;Electrical Engineering Student | Embedded Systems | AI & IoT | Cybersecurity&lt;/h3&gt;
-&lt;p align="center"&gt;
-&lt;img src="https://img.shields.io/badge/Location-Kafr%20El--Sheikh,%20Egypt-blue?style=flat-square" /&gt;
-&lt;img src="https://img.shields.io/badge/Focus-Embedded%20Systems-orange?style=flat-square" /&gt;
-&lt;img src="https://img.shields.io/badge/Certifications-24+-success?style=flat-square" /&gt;
-&lt;/p&gt;
+# 👋 Hi, I'm Ahmed Mohamed Ahmed Saber
 
+🎓 **Electrical Engineering Student – First Year**  
+⚡ **Interests:** Embedded Systems | IoT | AI-Powered Hardware | Cybersecurity  
+📍 Kafr El-Sheikh, Egypt  
 ---
-
-## 🎓 Education
-- **B.Sc. Electrical Engineering** | Higher Institute of Engineering and Technology, Kafr El-Sheikh
-- **Expected Graduation:** 2029 | **Started:** 2025
-
+## 🛠️ Technical Skills
+| Area | Technologies |
+|------|--------------|
+| **Microcontrollers** | Arduino, ESP32, ESP32-S3, ARM (learning) |
+| **Programming** | C++, C# (basics), HTML, CSS, JavaScript (basics) – learning Python |
+| **Communication Protocols** | I2C, UART, SPI, Bluetooth, Wi-Fi, GSM |
+| **Design & Simulation** | Proteus, Autodesk Fusion, AutoCAD Electrical, KiCad |
+| **AI & Tools** | Google Gemini API, Microsoft Copilot, Generative AI |
+| **Operating Systems** | Windows, Linux (Ubuntu), Tails OS |
+| **Other Tools** | Git, GitHub, Adobe Photoshop, Microsoft 365 |
 ---
-
-## 💼 Experience
-- **Engineering Summer Trainee** | HIET | Summer 2025
-- **Freelance Web Developer & Digital Services Manager** | Self-Employed | 2024–Present
-
+## 📌 Featured Projects
+- 🔋 **Smart Multi-Source Power Supply** (Solar + Peltier + AC) – automatic switching, storage, and regulated DC outputs.
+- 🤖 **AI-Powered Engineering Lab Kit** – function generator, oscilloscope, and voice assistant using Google Gemini API.
+- 🏠 **Full Smart Home Automation** – Bluetooth, GSM, IoT control with ESP32-CAM.
+- 🧠 **3-Digit Arithmetic Logic Unit (ALU)** – 5 operations using pure combinational logic.
+- 🤖 **Robotics Suite** – line follower, obstacle avoidance, self-balancing robot, robotic arm, XY plotter.
+> 🔍 All projects are available in my repositories – feel free to browse code and schematics.
 ---
-
-## 🔧 Technical Skills
-
-**Microcontrollers & Hardware:** Arduino, ESP32, ESP32-S3, ESP32-S2, ARM
-
-**Programming:** C++ (Embedded), C#, HTML, CSS, JavaScript, Python (learning)
-
-**Design Tools:** Proteus, Autodesk Fusion, AutoCAD Electrical, KiCad
-
-**Protocols:** I2C, UART, SPI, Bluetooth, Wi-Fi, GSM (SIM800L), IoT
-
-**AI & Copilot:** Microsoft 365 Copilot, Copilot Studio, Google Gemini API, LLM APIs
-
-**Cybersecurity:** InfoSec, Network Privacy (Tor, Tails OS), Threat Detection, Malware ID
-
+## 📜 Certifications (24+)
+- **Microsoft Learn:** AI Concepts, C#, Microsoft 365 Copilot, Copilot Studio.
+- **Google:** Gemini in Google Drive.
+- **Autodesk:** Electronics Design.
+- **LinkedIn Learning:** Generative AI, Ethics in AI, Everyday AI Concepts.
+- **IT Legend:** C++, OOP, Algorithms & Problem Solving.
+- **M3aarf:** Information Security, IoT, Microsoft Access.
+- **First Aid & BLS** (18 hours each, certified).
 ---
-
-## 🏆 Certifications (24+)
-- **Microsoft Learn:** AI Concepts, C#, Copilot, Copilot Studio
-- **Google:** Gemini in Google Drive
-- **Autodesk:** Electronics Design
-- **LinkedIn Learning:** Generative AI, Ethics in AI, Copilot for Work
-- **Edraak:** Entrepreneurship
-- **IT Legend:** CS Intro, Algorithms, C++, OOP
-- **M3aarf:** InfoSec, IoT, Microsoft Word, Access
-- **Medical:** First Aid & CPR, BLS (18 hours each)
-
+## 🌟 I'm Looking For
+- Summer internship or collaboration in **Electronics Engineering** or **Embedded Systems**.
+- Open source contributions in IoT or Robotics.
 ---
-
 ## 📫 Connect With Me
-- 📧 **Email:** a.elsuad08@gmail.com
-- 💼 **LinkedIn:** [Ahmed Mohammed Ahmed Saber](https://www.linkedin.com/in/ahmed-mohamed-ahmed-saber-abdelhamid-b46249324)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-ahmed-saber-abdelhamid-b46249324)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.elsuad08@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahmed-M-Elsayad)
+> 💬 Questions, suggestions, or collaboration opportunities? Feel free to open an Issue or reach out directly.
 ---
-
-&gt; 🚀 *Seeking internship and collaborative opportunities in electronics engineering and embedded systems.*
+⭐ *Thanks for visiting my profile – I'm always excited to learn and share*
