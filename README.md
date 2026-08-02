@@ -35,7 +35,6 @@
 ---
 
 ### 📌 Featured Projects
-
 * 🔋 **[Smart Multi-Source Power Supply](https://github.com/Ahmed-M-Elsayad/Smart-Power-Supply)** – Renewable energy integration (Solar + Peltier + AC) with automatic source switching and regulated DC outputs.
 * 🤖 **[AI-Powered Engineering Lab Kit](https://github.com/Ahmed-M-Elsayad/AI-Lab-Kit)** – Multi-output lab workbench featuring function generator, oscilloscope display, and voice assistant integration via Google Gemini API.
 * 🏠 **[Full Smart Home Automation](https://github.com/Ahmed-M-Elsayad/Smart-Home-ESP32)** – Secure IoT control system using ESP32-CAM, Bluetooth, and GSM modules.
